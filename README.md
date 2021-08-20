@@ -1,7 +1,7 @@
 ## Hi, I’m Chris Achuck
 - 🏛️ I’m currently a university student
-- 💻 I’m currently learning Java && front-end development tools
-- 👋 You can reach me on LinkedIn, /chrisachuck
+- 💻 I’m proficient in Python & Java 
+- 👨‍💻 I'm learning front-end development tools
 
 ### Let's Connect:
 [<img align="left" alt="chrisachuck - LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
