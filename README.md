@@ -1,4 +1,4 @@
-## Hi, I’m Chris Achuck
+## Hi, I’m C Achuck
 - 🏛️ I’m currently a university student
 - 💻 I’m proficient in Python & Java 
 - 👨‍💻 I'm learning front-end development tools
