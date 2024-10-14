@@ -1,7 +1,7 @@
-## Hi, I’m C Achuck
-- 🏛️ I’m currently a university student
-- 💻 I’m proficient in Python & Java 
-- 👨‍💻 I'm learning front-end development tools
+## Hi, I’m Achuck
+- I work in identity access management (IAM)
+- I work in Python & Java 
+- Last updated: October 2024
 
 ### Let's Connect:
 [<img align="left" alt="chrisachuck - LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
