@@ -1,4 +1,4 @@
 ## Hi, I’m Achuck
-- I work in digital identity
-- I work in Python & Java
+- I work in digital identity and anti-fraud
+- I work in Python
 - Reach me at: github@achuck.org
